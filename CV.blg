@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: CV.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: mine.bib
+Warning--empty year in chakraborti2023almost
+Warning--there's a number but no volume in dhar2019simple
+You've used 31 entries,
+            2118 wiz_defined-function locations,
+            675 strings with 8769 characters,
+and the built_in function-call counts, 10372 in all, are:
+= -- 1021
+> -- 547
+< -- 4
++ -- 220
+- -- 182
+* -- 770
+:= -- 1793
+add.period$ -- 95
+call.type$ -- 31
+change.case$ -- 183
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 356
+empty$ -- 742
+format.name$ -- 182
+if$ -- 2091
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 31
+newline$ -- 158
+num.names$ -- 64
+pop$ -- 153
+preamble$ -- 1
+purify$ -- 152
+quote$ -- 0
+skip$ -- 244
+stack$ -- 0
+substring$ -- 633
+swap$ -- 53
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 124
+warning$ -- 2
+while$ -- 102
+width$ -- 33
+write$ -- 337
+(There were 2 warnings)

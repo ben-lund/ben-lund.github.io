@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.24)  25 APR 2024 11:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.24)  25 APR 2024 11:15
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -303,8 +303,7 @@ LaTeX Info: Redefining \nameref on input line 83.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-No file CV.bbl.
-
+(CV.bbl)
 Underfull \hbox (badness 10000) in paragraph at lines 99--105
 
  []
@@ -313,139 +312,56 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 105.
-
-LaTeX Warning: Citation `bright2023radial' undefined on input line 131.
-
-
-LaTeX Warning: Citation `chakraborti2022rainbow' undefined on input line 132.
-
-
-LaTeX Warning: Citation `bhowmick2023large' undefined on input line 133.
-
-
-LaTeX Warning: Citation `lund2023orthogonal' undefined on input line 134.
-
-
-LaTeX Warning: Citation `lund2022radial' undefined on input line 135.
-
-
-LaTeX Warning: Citation `chakraborti2023almost' undefined on input line 142.
-
-
-LaTeX Warning: Citation `dhar2024furstenberg' undefined on input line 143.
-
-
-LaTeX Warning: Citation `balogh2023maximal' undefined on input line 144.
-
-
-LaTeX Warning: Citation `kim2023threshold' undefined on input line 145.
-
-
-LaTeX Warning: Citation `dhar2019simple' undefined on input line 146.
-
-
-LaTeX Warning: Citation `hendon2019perfect' undefined on input line 147.
-
-
-LaTeX Warning: Citation `lund2017two' undefined on input line 148.
-
-
-LaTeX Warning: Citation `lund2020refined' undefined on input line 149.
-
 [1
 
-{C:/Users/lundb/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-
-LaTeX Warning: Citation `lund2019bisectors' undefined on input line 150.
-
-
-LaTeX Warning: Citation `fish2019construction' undefined on input line 151.
-
-
-LaTeX Warning: Citation `basit2019improved' undefined on input line 152.
+{C:/Users/lundb/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+Overfull \hbox (11.35335pt too wide) in paragraph at lines 170--171
+\OT1/cmr/m/it/10 tion, Ran-dom-iza-tion, and Com-bi-na-to-rial Op-ti-miza-tion.
+ Al-go-rithms and Tech-niques (AP-PROX/RANDOM
+ []
 
 
-LaTeX Warning: Citation `barany2018convex' undefined on input line 153.
+Overfull \hbox (1.04358pt too wide) in paragraph at lines 171--172
+\OT1/cmr/m/it/10 2015)\OT1/cmr/m/n/10 , vol-ume 34 of \OT1/cmr/m/it/10 Leib-niz
+ In-ter-na-tional Pro-ceed-ings in In-for-mat-ics (LIPIcs)\OT1/cmr/m/n/10 , pag
+es 537--552, Dagstuhl,
+ []
 
-
-LaTeX Warning: Citation `lund2018distinct' undefined on input line 154.
-
-
-LaTeX Warning: Citation `lund2018finite' undefined on input line 155.
-
-
-LaTeX Warning: Citation `lund2018essential' undefined on input line 156.
-
-
-LaTeX Warning: Citation `lund2017sign' undefined on input line 157.
-
-
-LaTeX Warning: Citation `cilleruelo2017elementary' undefined on input line 158.
-
-
-
-LaTeX Warning: Citation `lund2016improved' undefined on input line 159.
-
-
-LaTeX Warning: Citation `hanson2016distinct' undefined on input line 160.
-
-
-LaTeX Warning: Citation `lund2016bisector' undefined on input line 161.
-
-
-LaTeX Warning: Citation `lund2016incidence' undefined on input line 162.
-
-
-LaTeX Warning: Citation `lund2012pseudoline' undefined on input line 163.
-
-
-LaTeX Warning: Citation `lund2011bichromatic' undefined on input line 164.
-
-
-LaTeX Warning: Citation `lund2020list' undefined on input line 170.
-
-
-LaTeX Warning: Citation `lund2015' undefined on input line 171.
-
-
-LaTeX Warning: Citation `lund2011collinearities' undefined on input line 172.
-
-[2] [3] Excluding 'comment' comment.
+[3] [4] Excluding 'comment' comment.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
- [4]
+ [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
  (CV.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
  ) 
 Here is how much of TeX's memory you used:
- 5670 strings out of 481199
- 89558 string characters out of 2905595
- 358744 words of memory out of 3000000
- 21124 multiletter control sequences out of 15000+200000
+ 5707 strings out of 481199
+ 90226 string characters out of 2905595
+ 359964 words of memory out of 3000000
+ 21158 multiletter control sequences out of 15000+200000
  538278 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,5n,37p,543b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,5n,37p,543b,445s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr10.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmr17.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr8.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/lundb/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/lundb/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/lundb/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/
-lundb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on CV.pdf (4 pages, 130663 bytes).
+cmmi10.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/lundb/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lundb/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/lundb/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/l
+undb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C
+:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt
+10.pfb><C:/Users/lundb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmtt8.pfb>
+Output written on CV.pdf (5 pages, 157073 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

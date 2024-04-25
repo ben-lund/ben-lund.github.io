@@ -1,0 +1,168 @@
+\begin{thebibliography}{10}
+
+\bibitem{balogh2023maximal}
+J{\'o}zsef Balogh, Ce~Chen, Kevin Hendrey, Ben Lund, Haoran Luo, Casey
+  Tompkins, and Tuan Tran.
+\newblock Maximal 3-wise intersecting families.
+\newblock {\em Combinatorica}, 2023.
+
+\bibitem{barany2018convex}
+Imre B{\'a}r{\'a}ny, Julien Bureaux, and Ben Lund.
+\newblock Convex cones, integral zonotopes, limit shape.
+\newblock {\em Advances in Mathematics}, 331:143--169, 2018.
+
+\bibitem{basit2019improved}
+Abdul Basit and Ben Lund.
+\newblock An improved sum-product bound for quaternions.
+\newblock {\em SIAM Journal on Discrete Mathematics}, 33(2):1044--1060, 2019.
+
+\bibitem{bhowmick2023large}
+Krishnendu Bhowmick, Ben Lund, and Oliver Roche-Newton.
+\newblock Large convex sets in difference sets.
+\newblock {\em arXiv preprint arXiv:2309.07527}, 2023.
+
+\bibitem{bright2023radial}
+Paige Bright, Ben Lund, and Thang Pham.
+\newblock On a radial projection conjecture in {$F_q^d$}.
+\newblock {\em arXiv preprint arXiv:2311.05127}, 2023.
+
+\bibitem{hendon2019perfect}
+Matija Bucic, Pat Devlin, Mo~Hendon, Dru Horne, and Ben Lund.
+\newblock Perfect matchings and derangements on graphs.
+\newblock {\em Journal of Graph Theory}, 97(2):340--354, 2021.
+
+\bibitem{chakraborti2022rainbow}
+Debsoumya Chakraborti, Kevin Hendrey, Ben Lund, and Casey Tompkins.
+\newblock Rainbow saturation for complete graphs.
+\newblock {\em arXiv preprint arXiv:2212.04640, accepted to SIAM Journal on
+  Discrete Mathematics}, 2022.
+
+\bibitem{chakraborti2023almost}
+Debsoumya Chakraborti and Ben Lund.
+\newblock Almost spanning distance trees in subsets of finite vector spaces.
+\newblock {\em Bulletin of the London Mathematical Society}.
+
+\bibitem{cilleruelo2017elementary}
+Javier Cilleruelo, Alex Iosevich, Ben Lund, Oliver Roche-Newton, and Misha
+  Rudnev.
+\newblock Elementary methods for incidence problems in finite fields.
+\newblock {\em Acta Arithmetica}, 177:133--142, 2017.
+
+\bibitem{dhar2019simple}
+Manik Dhar, Zeev Dvir, and Ben Lund.
+\newblock Simple proofs for {F}urstenberg sets over finite fields.
+\newblock {\em Discrete Analysis}, (22), 2021.
+
+\bibitem{dhar2024furstenberg}
+Manik Dhar, Zeev Dvir, and Ben Lund.
+\newblock Furstenberg sets in finite fields: Explaining and improving the
+  ellenberg--erman proof.
+\newblock {\em Discrete \& Computational Geometry}, 71(2):327--357, 2024.
+
+\bibitem{fish2019construction}
+Sara Fish, Ben Lund, and Adam Sheffer.
+\newblock A construction for difference sets with local properties.
+\newblock {\em European Journal of Combinatorics}, 79:237--243, 2019.
+
+\bibitem{hanson2016distinct}
+Brandon Hanson, Ben Lund, and Oliver Roche-Newton.
+\newblock On distinct perpendicular bisectors and pinned distances in finite
+  fields.
+\newblock {\em Finite Fields and Their Applications}, 37:240--264, 2016.
+
+\bibitem{kim2023threshold}
+Jeong~Han Kim, Ben Lund, Thang Pham, and Semin Yoo.
+\newblock Threshold functions for incidence properties in finite vector spaces.
+\newblock {\em Finite Fields and Their Applications}, 87:1021--49, 2023.
+
+\bibitem{lund2016improved}
+Ben Lund.
+\newblock An improved bound on {(A + A)/(A + A)}.
+\newblock {\em Electronic Journal of Combinatorics}, 23(3), 2016.
+
+\bibitem{lund2018essential}
+Ben Lund.
+\newblock Essential dimension and the flats spanned by a point set.
+\newblock {\em Combinatorica}, 38(5):1149--1174, 2018.
+
+\bibitem{lund2020refined}
+Ben Lund.
+\newblock A refined energy bound for distinct perpendicular bisectors.
+\newblock {\em Annals of Combinatorics}, pages 1--11, 2020.
+
+\bibitem{lund2017two}
+Ben Lund.
+\newblock Two theorems on point-flat incidences.
+\newblock {\em Computational Geometry}, 92:101681, 2021.
+
+\bibitem{lund2017sign}
+Ben Lund and Alexander Magazinov.
+\newblock The sign-sequence constant of the plane.
+\newblock {\em Acta Mathematica Hungarica}, 151(1):117--123, 2017.
+
+\bibitem{lund2019bisectors}
+Ben Lund and Giorgis Petridis.
+\newblock Bisectors and pinned distances.
+\newblock {\em Discrete \& Computational Geometry}, pages 1--18, 2019.
+
+\bibitem{lund2022radial}
+Ben Lund, Thang Pham, and Vu~Thi~Huong Thu.
+\newblock Radial projection theorems in finite spaces.
+\newblock {\em arXiv preprint arXiv:2205.07431}, 2022.
+
+\bibitem{lund2018distinct}
+Ben Lund, Thang Pham, and Le~Anh Vinh.
+\newblock Distinct spreads in vector spaces over finite fields.
+\newblock {\em Discrete Applied Mathematics}, 239:154--158, 2018.
+
+\bibitem{lund2023orthogonal}
+Ben Lund, Thang Pham, and Le~Anh Vinh.
+\newblock Orthogonal projections in the plane over prime order fields.
+\newblock {\em arXiv preprint arXiv:2311.05148}, 2023.
+
+\bibitem{lund2020list}
+Ben Lund and Aditya Potukuchi.
+\newblock On the list recoverability of randomly punctured codes.
+\newblock In {\em Approximation, Randomization, and Combinatorial Optimization.
+  Algorithms and Techniques (APPROX/RANDOM 2020)}. Schloss
+  Dagstuhl-Leibniz-Zentrum f{\"u}r Informatik, 2020.
+
+\bibitem{lund2011bichromatic}
+Ben Lund, George~B Purdy, and Justin~W Smith.
+\newblock A bichromatic incidence bound and an application.
+\newblock {\em Discrete \& Computational Geometry}, 46(4):611, 2011.
+
+\bibitem{lund2012pseudoline}
+Ben Lund, George~B Purdy, and Justin~W Smith.
+\newblock A pseudoline counterexample to the strong {D}irac conjecture.
+\newblock {\em The Electronic Journal of Combinatorics}, 21(2), 2012.
+
+\bibitem{lund2011collinearities}
+Ben Lund, George~B Purdy, Justin~W Smith, and Csaba~D T{\'o}th.
+\newblock Collinearities in kinetic point sets.
+\newblock {\em CCCG}, 2011.
+
+\bibitem{lund2016incidence}
+Ben Lund and Shubhangi Saraf.
+\newblock Incidence bounds for block designs.
+\newblock {\em SIAM Journal on Discrete Mathematics}, 30(4):1997--2010, 2016.
+
+\bibitem{lund2018finite}
+Ben Lund, Shubhangi Saraf, and Charles Wolf.
+\newblock Finite field {K}akeya and {N}ikodym sets in three dimensions.
+\newblock {\em SIAM Journal on Discrete Mathematics}, 32(4):2836--2849, 2018.
+
+\bibitem{lund2015}
+Ben Lund, Adam Sheffer, and Frank de~Zeeuw.
+\newblock {Bisector Energy and Few Distinct Distances}.
+\newblock In Lars Arge and J{\'a}nos Pach, editors, {\em 31st International
+  Symposium on Computational Geometry (SoCG 2015)}, volume~34 of {\em Leibniz
+  International Proceedings in Informatics (LIPIcs)}, pages 537--552, Dagstuhl,
+  Germany, 2015. Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik.
+
+\bibitem{lund2016bisector}
+Ben Lund, Adam Sheffer, and Frank De~Zeeuw.
+\newblock Bisector energy and few distinct distances.
+\newblock {\em Discrete \& Computational Geometry}, 56(2):337--356, 2016.
+
+\end{thebibliography}
