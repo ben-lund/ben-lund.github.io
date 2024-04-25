@@ -1,0 +1,294 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\bibliographystyle{plain} 
+
+\usepackage{bibentry}
+\makeatletter\let\saved@bibitem\@bibitem\makeatother
+
+\usepackage{hyperref}
+\makeatletter\let\@bibitem\saved@bibitem\makeatother
+\usepackage{geometry}
+\usepackage{comment}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+%\usepackage[T1]{fontenc}
+%\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Ben Lund}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://www.ben-lund.com/CV.pdf}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {mathematics, discrete geometry, additive combinatorics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+\nobibliography{mine}
+	
+	
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+
+\begin{minipage}{0.45\linewidth}
+
+  Institute for Basic Science\\
+  Discrete Mathematics Group (DIMAG) \\
+  55 Expo-ro Yuseong-gu Daejeon 34126 \\
+  South Korea \\
+   \href{mailto:lund.ben@gmail.com}{\tt lund.ben@gmail.com} \\
+   \href{www.ben-lund.com}{\tt http://www.ben-lund.com} \\
+\end{minipage}
+
+
+\section*{Education}
+
+\begin{itemize}
+  \item Ph.D., Rutgers University, 2017. Adviser: Shubhangi Saraf.
+  \item M.S., University of Cincinnati, 2012. Adviser: George Purdy.
+\end{itemize}
+
+
+\section*{Experience}
+
+\begin{itemize}
+\item Senior researcher, IBS, DIMAG, Aug. 2020-present. PI: Sang-il Oum
+\item NSF mathematical sciences postdoc, Princeton University, Sept. 2018-July 2020. Adviser: Zeev Dvir
+\item RTG postdoc, University of Georgia, Sept. 2017- Sept. 2018. Adviser: Giorgis Petridis.
+\item Renyi Institute, Sept.-Dec., 2015. Adviser: Imre B\'ar\'any.
+\item IPAM, Algebraic Techniques for Computational and Combinatorial Geometry, Mar.-Jun., 2014.
+\end{itemize}
+
+\section*{Publications}
+
+\subsection*{Preprints}
+
+\begin{enumerate}
+	\item \bibentry{bright2023radial}
+	\item \bibentry{chakraborti2022rainbow}
+	\item \bibentry{bhowmick2023large}
+	\item \bibentry{lund2023orthogonal}
+	\item \bibentry{lund2022radial}
+\end{enumerate}
+
+
+\subsection*{Journal articles}
+\begin{enumerate}
+	\setcounter{enumi}{5}
+	\item \bibentry{chakraborti2023almost}
+	\item \bibentry{dhar2024furstenberg}
+	\item \bibentry{balogh2023maximal}
+	\item \bibentry{kim2023threshold}
+	\item \bibentry{dhar2019simple}
+	\item \bibentry{hendon2019perfect}
+	\item \bibentry{lund2017two}
+	\item \bibentry{lund2020refined}
+	\item \bibentry{lund2019bisectors}
+	\item \bibentry{fish2019construction}
+	\item \bibentry{basit2019improved}
+	\item \bibentry{barany2018convex}
+	\item \bibentry{lund2018distinct}
+	\item \bibentry{lund2018finite}
+	\item \bibentry{lund2018essential}
+	\item \bibentry{lund2017sign}
+	\item \bibentry{cilleruelo2017elementary}
+	\item \bibentry{lund2016improved}
+	\item \bibentry{hanson2016distinct}
+	\item \bibentry{lund2016bisector}
+	\item \bibentry{lund2016incidence}
+	\item \bibentry{lund2012pseudoline}
+	\item \bibentry{lund2011bichromatic}
+\end{enumerate}
+
+\subsection*{Conference abstracts}
+\begin{enumerate}
+	\setcounter{enumi}{28}
+	\item \bibentry{lund2020list}
+	\item \bibentry{lund2015}
+	\item \bibentry{lund2011collinearities}
+\end{enumerate}
+
+\section*{Teaching}
+\begin{itemize}
+	\item Instructor, Graph Theory, University of Georgia, Spring 2018.
+	\item Instructor, Multivariable Calculus, University of Georgia, Fall 2017.
+	\item Instructor, Discrete Structures 1, Rutgers, Summer 2016.
+	\item TA for Bahman Kalantari, Rutgers, Spring 2015, 2016, 2017.
+\end{itemize}
+
+\section*{Awards and distinctions}
+\begin{itemize}
+\item NSF Mathematical Sciences Postdoctoral Research Fellow, 2018-2020.
+\item Heidelberg Laureate Forum delegate, 2015.
+\item Rizvi family prize (awarded by computer science department of Rutgers), 2015.
+\item Top Coder Open 2nd place, Design track, 2007.
+\end{itemize}
+
+
+\section*{Talks and presentations}
+\begin{itemize}
+	\item 2023
+	\begin{itemize}
+		\item IBS discrete mathematics seminar, Dec, \em{Almost spanning distance trees in subsets of finite vector spaces}
+		\item Chungbuk National University Mathematics Colloquium, Sept, {\em Almost spanning distance trees in subsets of finite vector spaces}
+		\item The Korea-Taiwan-Vietnam Joint Meeting on Discrete Geometry and Geometric Measure Theory, Jul, {\em Almost spanning distance trees in subsets of finite vector spaces}
+		\item JMM Special session on distance problems in continuous, discrete, and finite field settings, Jan, {\em Radial projections in finite vector spaces}
+	\end{itemize}
+\end{itemize}
+\begin{itemize}
+	\item 2022
+	\begin{itemize}
+		\item IBS discrete mathematics seminar, Mar, {\em Thresholds for incidence properties in finite vector spaces}
+		\item IBS discrete mathematics seminar, Jun, {\em Radial projections in finite vector spaces}
+	\end{itemize}
+\end{itemize}
+\begin{itemize}
+	\item 2021
+	\begin{itemize}
+		\item IBS discrete mathematics seminar, Nov, {\em Maximal 3-wise intersecting families}
+		\item Young researchers in extremal and probabilistic combinatorics, {\em Maximal 3-wise intersecting families}
+		\item TCS Seminar, IIT Bombay, {\em Simple proofs for Furstenberg sets}
+		\item Moscow conference on combinatorics and applications, {\em Finite field Kakeya and Furstenberg sets}
+		\item IBS discrete mathematics seminar, May, {\em Limit shape of lattice zonotopes}
+		\item Build a network of young researchers in mathematics 1, {\em Kakeya and Furstenberg sets over fininte fields}
+		\item IBS discrete mathematics seminar, Jan, {\em Perfect matchings and derangements on graphs}
+	\end{itemize}
+	\item 2020
+	\begin{itemize}
+		\item IBS discrete mathematics seminar, Jan
+		\item SUNY Korea CS Colloquium, Oct
+		\item IBS discrete mathematics seminar, Aug
+\end{itemize}	
+\item 2018
+\begin{itemize}
+	\item NYC Discrete geometry seminar, Fall
+	\item Princeton discrete math seminar, Fall
+	\item Courant institute geometry seminar, Spring
+\end{itemize}
+\item 2017
+\begin{itemize}
+\item Oberwolfach workshop on discrete geometry 1715
+\item University of Georgia, Analysis and Combinatorics Seminar, Spring and Fall
+\item University of Georgia, Number Theory Seminar, Spring and Fall
+\item University of Georgia, Geometry Seminar, Fall
+\end{itemize}
+\item 2016
+\begin{itemize}
+\item University of Rochester combinatorics seminar
+\item First Vietnam Workshop on Graph Theory and Discrete Geometry
+\item California Institute of Technology combinatorics seminar
+\item Kent State Informal Analysis Seminar (Poster presentation)
+\item Courant Institute geometry seminar
+\end{itemize}
+\item 2015
+\begin{itemize}
+\item Renyi Institute extremal combinatorics seminar
+\item Renyi Institute geometry seminar
+\item 31st International Symposium on Computational Geometry
+\item Courant Institute geometry seminar
+\end{itemize}
+\item 2014
+\begin{itemize}
+\item Princeton discrete math seminar
+\item IPAM Algebraic techniques for combinatorial and computational geometry culminating workshop
+\item IPAM Algebraic techniques for combinatorial and computational geometry seminar series
+\end{itemize}
+\end{itemize}
+
+\section*{Service}
+\begin{itemize}
+\item Organizer for 2024 IBS-DIMAG workshop on combinatorics and geometric measure theory
+\item Organizer for DIMAG/ECOPRO lunchtime seminar series (Aug. 2023-present)
+\item Referee for Advances in Combinatorics, Discrete \& Computational Geometry, Combinatorica, Pacific Journal of Mathematics, The Electronic Journal of Combinatorics, Discrete Analysis, Discrete Mathematics, Foundations of Computer Science (FOCS), Symposium on Computational Geometry (SoCG), Finite fields and their applications, Computational geometry: Theory and applications, European Journal of Combinatorics
+\end{itemize}
+
+\section*{References}
+\begin{itemize}
+	\item Shubhangi Saraf, Associate professor of mathematics and computer science, University of Toronto, shubhangi.saraf@utoronto.ca
+	\item Giorgis Petridis, Associate professor of mathematics, University of Georgia, petridis@uga.edu
+	\item Zeev Dvir, Associate professor of mathematics and computer science, zdvir@cs.princeton.edu
+\end{itemize}
+
+
+\begin{comment}
+\section*{Collaborators}
+Imre B\'ar\'any (University College London, R\'enyi Institute), Abdul Basit (Rutgers University), Julien Bureaux (Lyc\'ee Carnot), Javier Cilleruelo, Brandon Hanson (Penn State), Alex Iosevich (University of Rochester), Alexander Magazinov (Tel Aviv University), Van Thang Pham (EPFL), Oliver Roche-Newton (JKU Linz), Misha Rudnev (University of Bristol), Shubhangi Saraf (Rutgers University), Adam Sheffer (CalTech), Le Anh Vinh (Vietnam National University), Charles Wolf (Rutgers University), Frank de Zeeuw (EPFL)
+\end{comment}
+
+
+\bigskip
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+
+\end{document}

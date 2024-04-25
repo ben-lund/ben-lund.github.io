@@ -1,0 +1,97 @@
+body
+{
+background-image:url('pseudolines.svg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:right;
+background-size:50%;
+}
+
+.content {
+	background-color:white;
+	width: 600px;
+	margin-left: 20px;
+	margin-top: 40px;
+	font-family: georgia, times, serif;
+	line-height: 160%;
+	text-align: justify;
+	margin-bottom: 0px;
+}
+
+.header {
+	background-color:white;
+	width: 600px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.header .face{
+	float: left;
+}
+
+.header .name {
+	text-align: justify;
+	margin-left: 200px;
+	font-family: helvetica, arial, sans;
+	margin-bottom: 0px;
+	font-size: 200%;
+	font-weight: bold;
+	color: #55B;
+}
+
+.header .email {
+	text-align: justify;
+	margin-left: 200px;
+	margin-bottom: 20px;
+	color: #559;
+}
+
+.header .description{
+	margin-left: 200px;
+	text-align: justify;
+	margin-bottom: 0px;
+}
+
+.arrangement {
+	float: right;
+}
+
+.content .section{
+	color: #55B;
+	font-family: helvetica, arial, sans;
+	font-size: 180%;
+	line-height: 120%;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 0px;
+	margin-bottom: 18px;
+}
+
+.content .section a{
+	color: #55B;
+	font-family: helvetica, arial, sans;
+	font-size: 80%;
+	line-height: 100%;
+	text-align: left;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+.content .pub_title{
+	font-weight: bold;
+	color: #559;
+}
+
+.content a{
+	color: #666;
+}
+
+.content li{
+	list-style:none;
+	text-align: justify;
+	margin-bottom: 16px;
+}
+
+.content .journal{
+	font-style: italic ;
+}
